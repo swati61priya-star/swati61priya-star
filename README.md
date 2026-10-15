@@ -13,6 +13,13 @@ I'm passionate about building practical, user-friendly applications and solving 
 
 ## 🚀 Featured Projects
 
+### 🛍️ Veyra: Fashion E-commerce Store
+A modern e-commerce web app with rule-based product recommendations, cart and wishlist, order checkout (simulated payments) and an admin dashboard.
+
+- **Tech:** Next.js 14, TypeScript, Tailwind CSS, Prisma, PostgreSQL (Neon), Vercel
+- 🚀 [Live Demo](https://veyra-fashion-commerce.vercel.app)
+- 📂 [Source Code](https://github.com/swati61priya-star/veyra-fashion-commerce)
+
 ### 📊 SalesPulse — Sales Analytics Dashboard
 A responsive sales dashboard with interactive charts, date filters, search, and CSV export.
 
@@ -26,13 +33,6 @@ A document question-answering application featuring semantic retrieval, cross-en
 - **Tech:** Python, Sentence-Transformers, Streamlit
 - 🔴 [Live Demo](https://rag-doc-assistant48.streamlit.app)
 - 📂 [Source Code](https://github.com/swati61priya-star/rag-doc-assistant)
-
-### 🛍️ Veyra: Fashion E-commerce Store
-A modern e-commerce web app with rule-based product recommendations, cart and wishlist, order checkout (simulated payments) and an admin dashboard.
-
-- **Tech:** Next.js 14, TypeScript, Tailwind CSS, Prisma, PostgreSQL (Neon), Vercel
-- 🚀 [Live Demo](https://veyra-fashion-commerce.vercel.app)
-- 📂 [Source Code](https://github.com/swati61priya-star/veyra-fashion-commerce)
 
 ### ⚙️ Todo List REST API
 A task-management REST API supporting complete CRUD operations.
